@@ -1,0 +1,181 @@
+body {
+  font-family: 'Georgia', serif;
+  background-color: #ffffff;
+  color: #1a1a1a; 
+  line-height: 1.6;
+}
+.navbar {
+    background-color: #000f33; 
+   color: #fef3c7;
+    font-size: 20px;
+    border-bottom: 3px solid #facc15; 
+    top: 0;
+    margin-bottom: 0;
+    border-radius: 0;
+     padding-top: 1rem; 
+    padding-bottom: 1rem;
+    
+  }
+  .navbar-logo {
+    height: 50%;
+    width: auto;
+}
+  .sidebar {
+    background-color: hsl(222, 100%, 10%);
+    min-height: 100vh;
+    padding-top: 1rem;
+   border-right: 3px solid #facc15;
+
+  }
+  .sidebar a:hover {
+    color: #fde68a;
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  .sidebar li {
+    margin: 10px 0;
+  }
+  .sidebar a {
+    text-decoration: none;
+  color: #facc15;
+  transition: color 0.3s ease;
+  }
+
+
+  .page-wrapper {
+    width:  80%;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    
+    gap: 15px;
+}
+
+.card {
+  background-color: #fff9db;
+  padding: 20px;
+  border-radius: 16px;
+  width: 100%;
+  border: 1px solid #facc15;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease;
+}
+.card:hover {
+  transform: translateY(-4px);
+}
+
+    
+
+  .dropdown-item2{
+    color: #1e3a8a !important;
+    background-color: #fff !important;
+    padding: 10px;
+
+  }
+  .dropdown-item2:hover {
+    background-color: #fef08a !important; /* světle žluté zvýraznění */
+    color: #000 !important;
+  }
+  
+  .article{
+    background-color: #ffffff;
+    color: #000000;
+    padding-top: 10Px;
+    padding-left: 50px;
+    padding-right: 20px;
+    border-radius: 30px;
+    width: 70%;
+    text-align: left;
+  }
+  .article2{
+    background-color: #ffffff;
+    color: #000000;
+    padding-top: 10Px;
+    padding-left: 50px;
+    padding-right: 20px;
+    border-radius: 30px;
+    width: 100%;
+    text-align: left;
+  }
+
+  .img1 {
+    float: end;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-bottom: 5x;
+    border: 2px solid #1e3a8a;
+    border-radius: 12px;
+    padding: 4px;
+    width: 300px;
+  }
+
+  .img2 {
+    display: block;
+    margin-right: auto;
+    border: 2px solid #1e3a8a;
+  border-radius: 12px;
+    padding: 4px;
+    width: 250px;
+  }
+  .traditions-page {
+    background-color: #f8f9fa;
+    min-height: 100vh;
+    }
+
+    .traditions-page .main-content {
+      background-color: #ffffff;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    .btn-outline-light {
+      border-color: #facc15;
+      color: #facc15;
+    }
+    .btn-outline-light:hover {
+      background-color: #facc15;
+      border-color: #facc15;
+      color: hsl(222, 100%, 10%);
+    }
+
+
+  .table-container {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 30px;
+    margin: 20px auto;
+    max-width: 90%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .table {
+    background-color: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .table-primary {
+    background-color: #facc15 !important;
+    color: hsl(222, 100%, 10%) !important;
+  }
+  
+  .table-bordered {
+    border-color: #facc15;
+  }
+  
+  .table td, .table th {
+    border-color: #facc15;
+    padding: 12px;
+  }
+  
+  .table-hover tbody tr:hover {
+    background-color: #fef08a;
+  }
+  
