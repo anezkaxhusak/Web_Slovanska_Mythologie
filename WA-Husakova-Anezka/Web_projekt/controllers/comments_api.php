@@ -68,7 +68,7 @@ switch ($method) {
         break;
         
     case 'POST':
-        // Přidání nového komentáře
+        
         if (strpos($path, '/api/comments') !== false) {
             $user = checkAuthentication();
             
@@ -106,7 +106,6 @@ switch ($method) {
         break;
         
     case 'PUT':
-        // Editace komentáře
         if (preg_match('/\/api\/comments\/(\d+)/', $path, $matches)) {
             $user = checkAuthentication();
             $commentId = $matches[1];
