@@ -118,7 +118,7 @@ session_start();
 <p>Advent je čtyřtýdenní období před Vánocemi, které slouží jako příprava na příchod Ježíše Krista. V tomto čase se tradičně zapalují svíčky na adventním věnci, připravují se adventní kalendáře a domácnosti se zdobí jmelím.</p>
 
 <h2>Vánoce</h2>
-<p>Vánoce jsou nejvýznamnějším křesťanským svátkem, oslavou narození Ježíše Krista. Tradičními zvyky jsou:</p>
+<p>Tento křesťanský svátek se stal nedílnou součástí roku ve většině světa. Křesťanské Vánoce se slaví proto, že se narodil Ježíš Kristus. Připomíná se jeho příběh a probíhají mše a bohoslužby. Tradičními zvyky jsou:</p>
 <ul>
   <li><strong>Štědrovečerní večeře</strong>: Tradičně se podává rybí polévka a smažený kapr s bramborovým salátem.</li>
   <li><strong>Betlém</strong>: Zobrazení narození Ježíše v jesličkách.</li>
@@ -135,10 +135,48 @@ session_start();
 <p>Tento svátek připomíná návštěvu tří mudrců u narozeného Ježíše. V některých oblastech se na Tři krále chodívalo na koledu, při níž děti zpívaly koledy a dostávaly dárky.</p>
 
 <h2>Velikonoce</h2>
-<p>Velikonoce jsou oslavou vzkříšení Ježíše Krista.</p>
+<p>Nejdůležitější křesťanský svátek se slaví na jaře. Je to celý týden oslav, který vrcholí Velikonočním pondělím. V této době se oslavuje doba, kdy byl Ježíš ukřižován, tento den se dnes jmenuje Velký pátek. Ale hlavně se oslavuje den, kdy po svém ukřižování Ježíš vstal z mrtvých, tedy Velikonoční pondělí. V této době se věřící scházejí, zdobí své domy i kostely. Datum Velikonoc se každý rok posouvá podle lunárního kalendáře.</p>
 
 
       </section>
+      <div style="background-color: #fff9db; border: 1px solid #facc15; border-radius: 16px; padding: 1rem; margin-top: 2rem; font-size: 0.9rem;">
+    <h3 style="color: #1e3a8a; font-size: 1rem; margin-bottom: 0.8rem; font-weight: bold;">Zdroje</h3>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+        <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+            <strong>Bohové starých Slovanů</strong> - 
+            <a target="_blank" style="color: #1e3a8a; text-decoration: none;"
+               onmouseover="this.style.textDecoration='underline'"
+               onmouseout="this.style.textDecoration='none'">
+                Peter Weleslaw Kuzmišín, Bohové starých Slovanů, 1. vyd. Nakladatelství Eugenika, 2016. ISB 978-80-8100-454-4
+            </a>
+        </li>
+        <li id="zdroj-slovansky-kruh" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Tisnovské noviny</strong> - 
+                    <a href="https://tisnovskenoviny.cz/2017/11/29/vanoce-a-krestanske-tradice/" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Vánoce a křesťanské tradice
+                    </a>
+                </li>    
+                <li id="zdroj-slovansky-kruh" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Cklub.cz</strong> - 
+                    <a href="https://www.cklub.cz/blog/kultura-a-nabozenstvi/krestanstvi" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                       Základní principy křesťanství 
+                    </a>
+                </li> 
+                <li id="zdroj-slovansky-kruh" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wikipedie</strong> - 
+                    <a href="https://cs.wikipedia.org/wiki/Svat%C3%BD_Mikul%C3%A1%C5%A1" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                       Mikuláš
+                    </a>
+                </li> 
+
+         </ul>
+        </div>
         </div>
         </div>
         </main>

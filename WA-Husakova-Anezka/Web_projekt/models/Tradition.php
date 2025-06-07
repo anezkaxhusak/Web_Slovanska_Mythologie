@@ -7,11 +7,11 @@ class Tradition {
         $this->db = $db;
     }
 
-    public function create($name, $age, $description, $season, $link, $images) {
+    public function create($name, $age, $description, $season, $link, $images, $user_id) {
         $sql = "INSERT INTO traditions (
-                    name, age, description, season, link, images) 
+                    name, age, description, season, link, images, user_id) 
                 VALUES (
-                    :name, :age, :description, :season, :link, :images)";
+                    :name, :age, :description, :season, :link, :images, :user_id)";
         
         $stmt = $this->db->prepare($sql);
         
@@ -21,8 +21,8 @@ class Tradition {
             ':description' => $description,
             ':season' => $season,
             ':link' => $link,
-            ':images' => json_encode($images)
-
+            ':images' => json_encode($images),
+            ':user_id' => $user_id
         ]);
     }
 
@@ -40,8 +40,24 @@ class Tradition {
         return $stmt->fetch(PDO::FETCH_ASSOC);
     }
 
+    
     public function update($id, $name, $age, $description, $season, $link, $userId) {
-        $sql = "UPDATE traditions SET name = ?, age = ?, description = ?, season = ?, link = ? WHERE id = ? AND user_id = ?";
+        
+        $tradition = $this->getById($id);
+        if (!$tradition) {
+            return false;
+        }
+        
+        
+        $currentUserId = $_SESSION['user_id'] ?? null;
+        $isAdmin = ($_SESSION['role'] ?? '') === 'admin';
+        $ownsTradition = $currentUserId == $tradition['user_id'];
+        
+        if (!$isAdmin && !$ownsTradition) {
+            return false;
+        }
+        
+        $sql = "UPDATE traditions SET name = ?, age = ?, description = ?, season = ?, link = ? WHERE id = ?";
         $stmt = $this->db->prepare($sql);
         return $stmt->execute([
             $name,
@@ -49,19 +65,29 @@ class Tradition {
             $description,
             $season,
             $link,
-            $id,
-            $userId
+            $id
         ]);
-        
     }
     
-
+   
     public function delete($id) {
+        
+        $tradition = $this->getById($id);
+        if (!$tradition) {
+            return false;
+        }
+        
+        $currentUserId = $_SESSION['user_id'] ?? null;
+        $isAdmin = ($_SESSION['role'] ?? '') === 'admin';
+        $ownsTradition = $currentUserId == $tradition['user_id'];
+        
+        if (!$isAdmin && !$ownsTradition) {
+            return false;
+        }
+        
         $sql = "DELETE FROM traditions WHERE id = :id";
         $stmt = $this->db->prepare($sql);
         return $stmt->execute([':id' => $id]);
     }
-
-
-
 }
+?>

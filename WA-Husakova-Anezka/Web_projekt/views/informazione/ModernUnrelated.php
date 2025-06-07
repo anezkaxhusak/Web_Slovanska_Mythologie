@@ -142,6 +142,51 @@ Tvorba kraslic, vyšívání krojů, lidová keramika, dřevěné hračky - to v
 </p>
 
       </section>
+      <div style="background-color: #fff9db; border: 1px solid #facc15; border-radius: 16px; padding: 1rem; margin-top: 2rem; font-size: 0.9rem;">
+        <h3 style="color: #1e3a8a; font-size: 1rem; margin-bottom: 0.8rem; font-weight: bold;">Zdroje</h3>
+         <ul style="list-style: none; padding: 0; margin: 0;">
+        <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+            <strong>Bohové starých Slovanů</strong> - 
+            <a target="_blank" style="color: #1e3a8a; text-decoration: none;"
+               onmouseover="this.style.textDecoration='underline'"
+               onmouseout="this.style.textDecoration='none'">
+                Peter Weleslaw Kuzmišín, Bohové starých Slovanů, 1. vyd. Nakladatelství Eugenika, 2016. ISB 978-80-8100-454-4
+            </a>
+        </li>
+        <li id="zdroj-slovansky-kruh" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Vlasta</strong> - 
+                    <a href="https://www.vlasta.cz/inspirace/prvni-maj-vznik-svatek-lasky-cas-polibek-majove-tradice-zvyky-majka/" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                       Prvomájové tradice a zvyky
+                    </a>
+                </li>
+                <li id="zdroj-slovansky-kruh" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Lidové kroje</strong> - 
+                    <a href="http://www.lidove-kroje.cz/lidove-tradice-a-remesla" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                       Lidové tradice a řemesla
+                    </a>
+                </li>
+                <li id="zdroj-slovansky-kruh" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wikipedie</strong> - 
+                    <a href="https://cs.wikipedia.org/wiki/Svatebn%C3%AD_zvyky" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                       Svatební zvyky
+                    </a>
+                </li>
+                <li id="zdroj-slovansky-kruh" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>České stavby</strong> - 
+                    <a href="https://www.ceskestavby.cz/clanky/ceske-novorocni-tradice-a-zvyky-se-drzi-ustredniho-prislovi-jak-na-novy-rok-tak-po-cely-rok-28841.html" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                       České novoroční tradice a zvyky 
+                    </a>
+                </li>
+            </ul>
+            </div>
         </div>
         </div>
     </main>

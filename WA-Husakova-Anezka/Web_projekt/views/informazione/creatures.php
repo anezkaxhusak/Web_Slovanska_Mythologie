@@ -128,6 +128,35 @@ session_start();
 </ul>
         <p> Každá skupina má své specifické zástupce, jejichž podoba a chování se liší podle regionální tradice. Dohromady však tvoří jeden z nejbohatších a nejpestřejších prvků slovanského mytologického světa. </p>
       </section>
+      <div style="background-color: #fff9db; border: 1px solid #facc15; border-radius: 16px; padding: 1rem; margin-top: 2rem; font-size: 0.9rem;">
+    <h3 style="color: #1e3a8a; font-size: 1rem; margin-bottom: 0.8rem; font-weight: bold;">Zdroje</h3>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+        <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+            <strong>Bohové starých Slovanů</strong> - 
+            <a target="_blank" style="color: #1e3a8a; text-decoration: none;"
+               onmouseover="this.style.textDecoration='underline'"
+               onmouseout="this.style.textDecoration='none'">
+                Peter Weleslaw Kuzmišín, Bohové starých Slovanů, 1. vyd. Nakladatelství Eugenika, 2016. ISB 978-80-8100-454-4
+            </a>
+        </li>
+        <li id="zdroj-peruni-demoni" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                        <strong>Peruni.sk</strong> - 
+                        <a href="https://peruni.estranky.sk/clanky/svet-slovanskych-bohu-a-demonu.html" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                           onmouseover="this.style.textDecoration='underline'"
+                           onmouseout="this.style.textDecoration='none'">
+                            Svět slovanských bohů a démonů
+                        </a>
+                    </li>
+                    <li id="zdroj-wikipedia-slovanski-demoni" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                        <strong>Wikipedie</strong> - 
+                        <a href="https://cs.wikipedia.org/wiki/Slovanští_démoni" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                           onmouseover="this.style.textDecoration='underline'"
+                           onmouseout="this.style.textDecoration='none'">
+                            Slovanští démoni
+                        </a>
+                    </li>
+                  </ul>
+            </div>
         </div>
         </div>
         </main>

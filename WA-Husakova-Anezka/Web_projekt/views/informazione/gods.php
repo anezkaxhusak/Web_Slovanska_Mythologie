@@ -106,6 +106,67 @@ session_start();
      </li>
 </ul>
       </section>
+      <div style="background-color: #fff9db; border: 1px solid #facc15; border-radius: 16px; padding: 1rem; margin-top: 2rem; font-size: 0.9rem;">
+    <h3 style="color: #1e3a8a; font-size: 1rem; margin-bottom: 0.8rem; font-weight: bold;">Zdroje</h3>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+        <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+            <strong>Bohové starých Slovanů</strong> - 
+            <a target="_blank" style="color: #1e3a8a; text-decoration: none;"
+               onmouseover="this.style.textDecoration='underline'"
+               onmouseout="this.style.textDecoration='none'">
+                Peter Weleslaw Kuzmišín, Bohové starých Slovanů, 1. vyd. Nakladatelství Eugenika, 2016. ISB 978-80-8100-454-4
+            </a>
+        </li>
+        <li id="zdroj-wikipedia-mytologie" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wikipedie</strong> - 
+                    <a href="https://cs.wikipedia.org/wiki/Slovansk%C3%A1_mytologie" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Slovanská mytologie
+                    </a>
+                </li>
+                <li id="zdroj-wikipedia-nabozenstvi" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wikipedie</strong> - 
+                    <a href="https://cs.wikipedia.org/wiki/Slovanské_náboženství" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Slovanské náboženství
+                    </a>
+                </li>
+                <li id="zdroj-wikipedia-seznam" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wikipedie</strong> - 
+                    <a href="https://cs.wikipedia.org/wiki/Seznam_slovanských_bohů" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Seznam slovanských bohů
+                    </a>
+                </li>
+                <li id="zdroj-e-stredovek" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>e-středověk.cz</strong> - 
+                    <a href="https://www.e-stredovek.cz/post/slovanska-mytologie/" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Slovanská mytologie
+                    </a>
+                </li>
+                <li id="zdroj-nas-region-mytologie" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Náš REGION</strong> - 
+                    <a href="https://nasregion.cz/anticka-mytologie-ta-slovanska-je-stejne-bohata-ale-temer-neznama-169942/" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Antická mytologie? Ta slovanská je stejně bohatá, ale téměř neznámá
+                    </a>
+                        </li>
+                <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Kudy kam</strong> - 
+                    <a href="https://blog.veruce.cz/znate-bohy-svych-predku/" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Znáte bohy svých předků?
+                    </a>
+                </li>
+    </ul>
+</div>
   </div>
 </div>
 </main>

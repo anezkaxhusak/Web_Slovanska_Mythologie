@@ -115,28 +115,34 @@ session_start();
         <p>Démoni větru mají ničivou sílu, ale mohou také nahlédnout do všech koutů všehomíru, čímž získávají velikou moudrost, a proto umí dobře poradit. Také dokážou vyčistit vzduch od nemocí, a dokonce i probudit milostnou touhu.</p>
         <h2>Baba Jaga</h2>
         <p>Baba Jaga je výrazně záporná vzdušná bytost, Je to ztělesněná bouřka v podobě zlé stařeny, která  létá na koštěti. Jaga je však také schopná Čarodějnice, která žije hluboko v lese, kde má dům na kuří noze. Plot okolo jejího domu je z lidských kostí, živí se totiž lidským masem a dušemi lidi. Ztělesňuje rozpoutané živly, které člověku přinášejí zkázu</p>
+        <p>Východní Slované tomuto démonu říkali Baba Jaga, zatímco jižní Slované ji znali jako Alu nebo Halu - démon zlého počasí (například bouřka, kroupy, vichr nebo blesk), může pojídat děti, zkouší také pohltit Měsíc nebo Slunce, což (jak lidé věřili) by znamenalo konec světa.</p>
         <img  src="images/BabaYaga.webp" class="img1" alt="Obrázek: Baba Jaga">
         
         <img  src="images/BabaJaga.jpg" class="img1" alt="Obrázek: Baba Jaga">
-
-
-        
+ 
         <h2>Vichr</h2>
-        <p>Vich má démonický charakter a projevuje se ničivou silou.</p>
+        <p>Vich má démonický charakter a projevuje se ničivou silou. Také škodil tím že naopak nemoci, dokonce i smrt, přenášel. Vítr nebo Vichr unáší ženy podobně jako drak. V oblacích prachu nebo vánici pak létají čerti a čarodějové, zatímco prudký poryv větru ohlašuje příchod těchto zlovolných bytostí.</p>
+        
         <h2>Větrnice</h2>
-        <p>Matka všech démonů větru. Stala se manželkou boha Striboga poté, co ji Stribog zachránil před Nijem - Skyprem Zlým. Zjevuje se jako krásná paní v bílých šatech věncem uvitým z bílých květů na hlavě.</p>
+        <p>Matka všech démonů větru. Stala se manželkou boha Striboga poté, co ji Stribog zachránil před Nijem - Skyprem Zlým.</p>
+        <p>Žena větru, v Čechách známa jako větrnice, krásná paní v bílých šatech, s dlouhými rozpuštěnými vlasy, která naříká v komíně, v křoví či na čerstvých hrobech. Její pláč věští neštěstí a varuje před hříchem, na Štědrý večer však přináší štěstí.</p>
+        
         <h2>Smršť</h2>
         <p>Nejmocnější a nejstarší syn Striboga a Větrnice. Přichází ze severu a přináší zimu a chlad. Zahalený do modrého pláště přijíždí na koni bílém jako sníh.</p>
+       
         <h2>Vítr </h2>
-        <p>Druhý syn Striboga a Větrnice. Přichází ze západu a přináší déšť. Také jezdí na bílém koni, ale plášť má zelený.</p>
+        <p>Druhý syn Striboga a Větrnice. Přichází ze západu a přináší déšť. Také jezdí na bílém koni, ale plášť má zelený. Slované věděli, že vítr může přinášet jak dobro, tak zlo - může přinášet déšť potřebný pro úrodu, ale může také ničit.</p>
+        
         <h2>Větřík</h2>
         <p>Také zvaný oblačník, je třetím synem Striboga a Větrnice. Svěřena je mu jižní světová strana, jeho poryvy proto přinášejí teplo. Jako jeho bratři i on se zjevuje na bílém koni, ale v červeném plášti. Jeho úkolem je také pást oblaka na obloze.</p>
+        
         <h2>Vánek</h2>
-        <p>Nejmladší syn Větrnice a Striboga. Je to duch jemného větru, který přichází z východu. Jezdí také na bílém koni a zdobí jej žlutý plášť.</p>
+        <p>Nejmladší syn Větrnice a Striboga. Je to duch jemného větru, který přichází z východu. Jezdí také na bílém koni a zdobí jej žlutý plášť. Představuje nejjemnější formu větru, kterého se lidé nebáli.</p>
         <h2>Oblačnice </h2>
         <p>Čtyři dcery Striboga a Větrnice. Jmenují se: Burja, oblačnice východu; Vjuga, oblačnice jihu; Jaga, oblačnice západu, a Metelice, oblačnice severu, která přináší sníh a chlad. Oblačnice na rozdíl od svých překrásných nevlastnich sester Vesny a Oseni nebyly obdařeny velkou krásou, ale zato se staly velkými čarodějkami.</p>
+        
         <h2>Meluzína a Mráz</h2>
-        <p>Dvojčata Vichru. Meluzína se projevuje hvízdavým mrazivým větrem. Mráz je studený vítr, který svým dechem vše promění v led.</p>
+        <p>Dvojčata Vichru. Meluzína se projevuje hvízdavým mrazivým větrem. Mráz je studený vítr, který svým dechem vše promění v led.Někdy bývá Meluzína vyobrazena s hadím ocasem místo nohou. O Štědrém večeru se v Čechách házela do vzduchu hrst mouky jako dar pro Meluzínu.</p>
         <img  src="images/Meluzína2.jpg" class="img1" alt="Obrázek: Meluzína">
         <img  src="images/Meluzína.jpg" class="img1" alt="Obrázek: Meluzína">
         
@@ -144,6 +150,91 @@ session_start();
 
 
       </section>
+      <div style="background-color: #fff9db; border: 1px solid #facc15; border-radius: 16px; padding: 1rem; margin-top: 2rem; font-size: 0.9rem;">
+    <h3 style="color: #1e3a8a; font-size: 1rem; margin-bottom: 0.8rem; font-weight: bold;">Zdroje</h3>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+        <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+            <strong>Bohové starých Slovanů</strong> - 
+            <a target="_blank" style="color: #1e3a8a; text-decoration: none;"
+               onmouseover="this.style.textDecoration='underline'"
+               onmouseout="this.style.textDecoration='none'">
+                Peter Weleslaw Kuzmišín, Bohové starých Slovanů, 1. vyd. Nakladatelství Eugenika, 2016. ISB 978-80-8100-454-4
+            </a>
+        </li>
+        <li id="zdroj-peruni-demoni" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>PERUNI - Svět slovanských bohů a démonů</strong> - 
+                    <a href="https://peruni.estranky.sk/clanky/svet-slovanskych-bohu-a-demonu.html" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Články o slovanské mytologii
+                    </a>
+                </li>
+                <li id="zdroj-wikipedia-kult-vetru" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wikipedie</strong> - 
+                    <a href="https://cs.wikipedia.org/wiki/Pohvizd" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Kult větru u Slovanů
+                    </a>
+                </li>
+                <li id="zdroj-wikipedia-stribog" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wikipedia</strong> - 
+                    <a href="https://en.wikipedia.org/wiki/Stribog" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Stribog (anglicky)
+                    </a>
+                </li>
+                <li id="zdroj-slovanska-mytologie-chi" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Chi.cz</strong> - 
+                    <a href="https://chi.cz/magie/slovanska-mytologie" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Slovanská mytologie - seznam postav a bohů
+                    </a>
+                </li>
+                <li id="zdroj-slovanska-mytologie-stredovek" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>e-stredovek.cz</strong> - 
+                    <a href="https://www.e-stredovek.cz/post/slovanska-mytologie/" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Slovanská mytologie
+                    </a>
+                </li>
+                <li id="zdroj-baba-jaga-wiki" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wikipedie</strong> - 
+                    <a href="https://cs.wikipedia.wiki/Ala_(mytologie)" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Ala (mytologie)
+                    </a>
+                </li>
+                <li id="zdroj-baba-jaga-dotyk" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Dotyk.cz</strong> - 
+                    <a href="https://www.dotyk.cz/magazin/baba-jaga.html" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Tajemství Baby Jagy
+                    </a>
+                </li>
+                <li id="zdroj-rozhlas-vetru" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Český rozhlas Dvojka</strong> - 
+                    <a href="https://dvojka.rozhlas.cz/hurakan-wotan-stribog-meluzina-expedice-do-mytologie-i-fyziky-vetru-8224806" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Expedice do mytologie větru
+                    </a>
+                </li>
+                <li id="zdroj-refresher-demoni" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>REFRESHER.cz</strong> - 
+                    <a href="https://refresher.cz/36226-Slovanski-demoni-Zakerne-i-napomocne-bytosti-stelesnujuce-prirodne-elementy-bolestivu-smrt-ci-nezvratny-osud" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Slovanskí démoni
+                    </a>
+                </li>
+              </ul>
+            </div>
         </div>
         </div>
         </main>

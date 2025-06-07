@@ -117,16 +117,21 @@ session_start();
       <section>
       <p>Démoni, kteří pečují o živočichy a rostliny. Tyto bytosti lze rozdělit na ty, co pečují o les, a na strážce polí a luk.</p>
         <p>Zprávy o uctívání lesních a polních bytostí jsou velmi staré. Jsou zaznamenány v adoracích stromů a hájů. Ve skutečnosti ani tak nejde o uctívání samotných stromů či rostlin, ale spíše o uctívání bytostí, které v nich přebývají.</p>
-        <p>Každý strom či rostlina má svého sejnu neboli vílu či ducha. Každý les má zase svého vládce, jenž se zjevuje v podobě chlupatého obra s drápy místo nehtů.</p>
+        <p>Každý strom či rostlina má svého sejnu neboli vílu či ducha. Každý les má zase svého vládce, jenž se zjevuje v podobě chlupatého obra s drápy místo nehtů.Slované si nemohli svět, přírodu a život v ní představit bez duchů a bytostí přírodních sil.</p>
 
         <h2>Lesovci</h2>
         <p>Velké chlupaté bytosti, jimž Svatogor svěřil vládu nad jednotlivými lesy. Dokážou se proměnit v jakékoliv zvíře nebo strom. K lidem mohou být dobrotiví, ale také velmi nebezpeční.</p>
+        <p>Jejich úkolem je střežit les, nestrpí lesní zloděje, hvízdání a pokřikování. Škůdce lesa zahání především děsivým křikem a různými žerty. Ochraňují také zvěř, vlci a zajíci jsou považováni za jejich stáda a s medvědy s oblibou hodují.</p>
         <img  src="images/Lesovci.jpg" class="img1" alt="Obrázek: Lesovci">
         
         <h2>Sejna</h2>
-        <p>Pojmenování pro mužského ducha stromu nebo také rostliny či houby. Sejnové jsou velmi vysoké a štíhlé bytosti podobné lidem.</p>
+        <p>Pojmenování pro mužského ducha stromu nebo také rostliny či houby. Sejnové jsou velmi vysoké a štíhlé bytosti podobné lidem. Každý strom či rostlina měla svého ducha či vílu, která v něm přebývala.</p>
+        
         <h2>Lesní Víly</h2>
-        <p>Také zvané Samogorky. Jsou ženskými duchy stromů, rostlin a hub. Jsou podobné vodním či polním vílám, ale jsou (stejně jako sejnové) mnohem vyšší.</p>
+        <p>Také zvané Samogorky. Jsou ženskými duchy stromů, rostlin a hub. Jsou podobné vodním či polním vílám, ale jsou (stejně jako sejnové) mnohem vyšší. Vystupují v podobě krásných dívek oděných v bílý, jemný šat tenký jako pavučina.</p>
+        <p>Jejich krása u člověka vzbuzuje neovladatelnou touhu. Vyznají se v bylinách, mají léčitelské schopnosti. Lesní víly rády pomáhají mladým dívkám se sběrem hub, předením lnu, popřípadě si prý mohou děvčata vyprosit krásu.</p>
+        <p>Mohou působit pozitivně, ale dovedou být i nebezpečné a zlé např. pomást člověka na rozumu.</p>
+        <p></p>
         <img  src="images/Lesnívíly.jpeg" class="img1" alt="Obrázek: Lesní víly">
         <h2>Grgalica</h2>
         <p>Zlá divoženka, která láká děti i mladé hochy do hlubokých zákoutí, kde je zabije a sežere.</p>
@@ -136,7 +141,7 @@ session_start();
         <img  src="images/Mamuna.jpg" class="img1" alt="Obrázek: Mamuna">
         
         <h2>Mavekyně </h2>
-        <p>Polní a luční víly jen o maličko vyšší než obilné klasy. Jako všechny vily i ony rády tančí. Svým tancem často vytvářejí v obilí různé obrazce.</p>
+        <p>Polní a luční víly jen o maličko vyšší než obilné klasy. Jako všechny vily i ony rády tančí. Svým tancem často vytvářejí v obilí různé obrazce. Traduje se, že kdo vstoupí do vílího kruhu symbolizujícího Slunce, toho víly utancují k smrti, nebo dokonce roztrhají v divokém taneční reji.</p>
         <h2>Běloň </h2>
         <p>Také zvaný Sporiš. Duch, který se zjevuje jako mládenec v bílé košili. Obvykle se k lidem chová přátelsky. Pomáhá jim při sklizni a obdarovává ty, kteří se s ním spřátelí. Svým příchodem přináší dobrou úrodu.</p>
         <h2>Serpolnice</h2>
@@ -144,6 +149,51 @@ session_start();
         <img  src="images/Serpolnice.webp" class="img1" alt="Obrázek: Serpolnice">
         
       </section>
+      <div style="background-color: #fff9db; border: 1px solid #facc15; border-radius: 16px; padding: 1rem; margin-top: 2rem; font-size: 0.9rem;">
+    <h3 style="color: #1e3a8a; font-size: 1rem; margin-bottom: 0.8rem; font-weight: bold;">Zdroje</h3>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+        <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+            <strong>Bohové starých Slovanů</strong> - 
+            <a target="_blank" style="color: #1e3a8a; text-decoration: none;"
+               onmouseover="this.style.textDecoration='underline'"
+               onmouseout="this.style.textDecoration='none'">
+                Peter Weleslaw Kuzmišín, Bohové starých Slovanů, 1. vyd. Nakladatelství Eugenika, 2016. ISB 978-80-8100-454-4
+            </a>
+        </li>
+<li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>PERUNI - Svět slovanských bohů a démonů</strong> - 
+                    <a href="https://peruni.estranky.sk/clanky/svet-slovanskych-bohu-a-demonu.html" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Články o slovanské mytologii
+                    </a>
+                </li>
+                <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wikipedie</strong> - 
+                    <a href="https://cs.wikipedia.org/wiki/Slovansk%C3%A1_mytologie" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Slovanská mytologie
+                    </a>
+                </li>
+                <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Postava víly ve slovanské mytologii</strong> - 
+                    <a href="https://karingaknihomolka.blogspot.com/2019/05/postava-vily-ve-slovanske-mytologii.html" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Blog o slovanských vílách
+                    </a>
+                </li>
+                <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Mytologie | Slované</strong> - 
+                    <a href="http://slovane.cz/?cat=7" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Web věnovaný slovanské mytologii
+                    </a>
+                </li>
+    </ul>
+</div>
         </div>
         </div>
         </main>

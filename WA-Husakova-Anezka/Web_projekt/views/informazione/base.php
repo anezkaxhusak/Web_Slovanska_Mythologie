@@ -114,7 +114,7 @@ session_start();
       </ul>
     </li>
     </nav>
-
+                            
     <main class="col-md-10 ms-sm-auto px-4">
       <header class="pt-3 pb-3">
       </header>
@@ -143,11 +143,85 @@ session_start();
                         <img src="images/SlovTrad.webp"  class="img2" alt="Fotka slavících dívek">
                     </article>
                 </section>
+                
             </div>
-
-      <section>
-        <p></p>
-      </section>
+<div style="background-color: #fff9db; border: 1px solid #facc15; border-radius: 16px; padding: 1rem; margin-top: 2rem; font-size: 0.9rem;">
+    <h3 style="color: #1e3a8a; font-size: 1rem; margin-bottom: 0.8rem; font-weight: bold;">Zdroje</h3>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+        <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+            <strong>Bohové starých Slovanů</strong> - 
+            <a target="_blank" style="color: #1e3a8a; text-decoration: none;"
+               onmouseover="this.style.textDecoration='underline'"
+               onmouseout="this.style.textDecoration='none'">
+                Peter Weleslaw Kuzmišín, Bohové starých Slovanů, 1. vyd. Nakladatelství Eugenika, 2016. ISB 978-80-8100-454-4
+            </a>
+        </li>
+        <li id="zdroj-kolovrat" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                        <strong>Kolovrat</strong> - 
+                        <a href="https://kolovrat.pohanskaspolecnost.cz/kolo-roku-slovane/" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                           onmouseover="this.style.textDecoration='underline'"
+                           onmouseout="this.style.textDecoration='none'">
+                            Výroční slavnosti starých slovanů
+                        </a>
+                    </li>
+                    <li id="zdroj-slovansky-kruh" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Slovanský kruh</strong> - 
+                    <a href="http://www.slovanskykruh.cz/2017/03/kolovrat-aneb-slovanske-slavnosti-v-prubehu-roku/" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Kolovrat aneb Slovanské slavnosti v průběhu roku
+                    </a>
+                </li>    
+                <li id="zdroj-slovansky-kruh" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Novinky.cz</strong> - 
+                    <a href="https://www.novinky.cz/clanek/zena-styl-novodobi-slovane-ti-co-vynaseji-moranu-40007392" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                       Novodobí Slované: ti, co vynášejí Moranu
+                    </a>
+                </li>  
+                <li id="zdroj-slovansky-kruh" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Kouzla z nití</strong> - 
+                    <a href="https://www.kouzlazniti.cz/l/kolo-roku-proc-a-jak-ozivaji-stare-pohanske-svatky-a-tradice/" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                       Kolo roku - proč a jak ožívají staré pohanské svátky a tradice
+                    </a>
+                </li>  
+                 <li id="zdroj-wikipedia-mytologie" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wikipedie</strong> - 
+                    <a href="https://cs.wikipedia.org/wiki/Slovansk%C3%A1_mytologie" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Slovanská mytologie
+                    </a>
+                </li>
+                <li id="zdroj-wikipedia-nabozenstvi" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wikipedie</strong> - 
+                    <a href="https://cs.wikipedia.org/wiki/Slovanské_náboženství" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Slovanské náboženství
+                    </a>
+                </li>
+                <li id="zdroj-peruni-demoni" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                        <strong>Peruni.sk</strong> - 
+                        <a href="https://peruni.estranky.sk/clanky/svet-slovanskych-bohu-a-demonu.html" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                           onmouseover="this.style.textDecoration='underline'"
+                           onmouseout="this.style.textDecoration='none'">
+                            Svět slovanských bohů a démonů
+                        </a>
+                    </li>
+                    <li id="zdroj-wikipedia-slovanski-demoni" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                        <strong>Wikipedie</strong> - 
+                        <a href="https://cs.wikipedia.org/wiki/Slovanští_démoni" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                           onmouseover="this.style.textDecoration='underline'"
+                           onmouseout="this.style.textDecoration='none'">
+                            Slovanští démoni
+                        </a>
+                    </li>
+            </ul>
+        </div>
   </div>
 </div>
 </main>

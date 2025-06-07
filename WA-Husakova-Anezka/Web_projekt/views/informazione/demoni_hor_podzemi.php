@@ -116,29 +116,99 @@ session_start();
       <p>Hory i podzemí byly odjakživa místem bohů. Hory představovali i element pevné hmoty a nedosažitelnost jejich vrcholu předznamenávala místo, kde se jde sekat s bohy nebo alespoň s duchy skal, jeskyní a hor. </p>
         <p>Oběti na posvátných místech byly určené bytostem, které přebývají ve stromech nebo kamenech, případně jsou s nimi nějak spojeny.</p>
         <p>Ani v případě výšek, nebo naopak velkých hlubin tomu není jinak. Ve slovanských horách a jeskyních můžeme potkat neskutečně mnoho horských duchů, skřítků i jiných bytostí, kteří chrání božská tajemství hor a podzemí. Snad každá hora má svého ducha, který často zlé trestá a statečné odměňuje.</p>
-        
+        <p></p>
+        <p></p>
         <h2>Permoníci </h2>
         <p>Skřítkové podzemí a jeskyní. Vzhledem jsou velmi podobní lidem, ale jsou menší a zavalitější. Vynikají v kovářství a hornictví.</p>
+        <p>Slovo permoník je odvozeno z německého Bergmännchen („důlní mužíček") a objevuje se v řadě variant: permon, perkmon, pergmon nebo perkmont. Permoníci mají velkou hlavu, krátké nohy a poměrně široký hrudník. Nosí hornické oblečení a v ruce mívají svítilnu.</p>
+        <p>Pokud ho horník zahlédl, mohl očekávat nešťastnou událost nebo nalezení drahých kovů. Kdo slyšel tyto bytosti pracovat, měl štěstí. Pro dobré vztahy s permoníky bylo nutné dodržovat hornické zvyklosti a nosit jim oběti.</p>
         <img  src="images/Permoník.jpg" class="img1" alt="Obrázek: Permoník">
         <h2>Trpaslíci </h2>
         <p>Jsou vzrůstem vyšší než skřítkové. Chrání ložiska drahých kovů a starají se o ně.</p>
-
+        <p>Ve slovanské mytologii splývají s permoníky a jinými malými bytostmi jako jsou ludkové známí u západních Slovanů.</p>
         <h2>Boruta </h2>
         <p>Jeskynní víly. Boruty pečují o všechny jeskyně. Rády v nich pořádají překrásné slavnosti pro všechny podzemní bytosti.</p>
+        <p>Původně se jednalo o polskou mytologickou postavu - lesního démona podobného českému hejkalovi. Boruta byla také označována jako błotnik, tedy bahenní duch.</p>
         <img  src="images/Boruta.jpg" class="img1" alt="Obrázek: Boruta">
         <h2>Labus</h2>
-        <p>Zlý skřítek, jenž láká lidi, a zejména děti, do podzemních hlubin, kde je nechá zabloudit až zahynout.</p>
+        <p>Zlý skřítek, jenž láká lidi, a zejména děti, do podzemních hlubin, kde je nechá zabloudit až zahynout.Patří mezi nebezpečné bytosti podzemního světa, které se specializují na svádění nezkušených poutníků.</p>
         <h2>Krakonoš</h2>
-        <p>Místní horský duch.</p>
+        <p>Místní horský duch, vládce a ochránce Krkonoš. Krakonoš nebo též Rýbrcoul (německy Rübezahl, polsky Liczyrzepa) je bájný duch hor, který v různých podobách chrání celé Krkonoše před chamtivými hledači pokladů, pytláky a dalšími nenechavci.</p>
+        <p>V lidových vyprávěních se objevuje přibližně už v 15. a 16. století. První vyobrazení Krakonoše pochází z Helwigovy mapy Slezska z roku 1561. V legendách je zobrazován jako vousatý, často zrzavý obr, stařec nebo mnich.</p>
+        <p>Někdy je přísný a výhrůžný, jindy neškodný a vtipný. Bedlivě sleduje ty, kteří chtějí nekalými úmysly horám uškodit.</p>
         <img  src="images/Krakonoš.jpg" class="img1" alt="Obrázek: Krakonoš">
         <h2>Loktibrada</h2>
-        <p>Synem Kovlada a Runy.</p>
+        <p>Syn Kovlada a Runy. Zdědil po svých rodičích moc nad podzemními poklady a rudnými žílami. Jeho jméno naznačuje spojení s kováním a zpracováním kovů, což odpovídá tradici hornictví v slovanské kultuře.</p>
         <h2>Bělič, Dimek a Laber</h2>
-        <p>Konkrétní podzemní skřítci, kteří rádi prozrazují lidem, kde hledat rudonosné žíly, kde mohou najít bohatství nebo ukrytý poklad.</p>
+        <p>Konkrétní podzemní skřítci, kteří rádi prozrazují lidem, kde hledat rudonosné žíly, kde mohou najít bohatství nebo ukrytý poklad. Tito tři bratři představují laskavější stránku podzemních bytostí, které občas pomáhají poctivým horníkům a hledačům pokladů.</p>
+        <h2>Górzoni</h2>
+        <p>Horští duchové známí ve slovanské mytologii. Patří mezi zemské elementy reprezentující duchy hor, skal, jeskyní a kamenů. Byly jim věnovány obětní kameny s vyhloubeninkami, které měly podobu misek, lidských nohou, rukou, zvířecích stop či křížů. Voda z těchto jamek byla používána k léčení.</p>
+        <h2>Asilkové (Osilkové)</h2>
+        <p>Obrové skal a řek. Tito mocní duchové střeží horské průsmyky a skalní útvary. Jsou to bytosti obrovské síly, které dokážou přesouvat balvany a měnit tok horských potoků podle své vůle.</p>
         <h2>Psoň </h2>
-        <p>Podobá se koni, ale je nižší. Tato bytost skřítkům slouží podobným způsobem, jako lidem slouží kůň</p>
-
+        <p>Podobá se koni, ale je nižší. Tato bytost skřítkům slouží podobným způsobem, jako lidem slouží kůň. Psoň je věrným společníkem podzemních bytostí a pomáhá jim při dopravě po podzemních chodbách a jeskyních.</p>
       </section>
+      <div style="background-color: #fff9db; border: 1px solid #facc15; border-radius: 16px; padding: 1rem; margin-top: 2rem; font-size: 0.9rem;">
+    <h3 style="color: #1e3a8a; font-size: 1rem; margin-bottom: 0.8rem; font-weight: bold;">Zdroje</h3>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+        <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+            <strong>Bohové starých Slovanů</strong> - 
+            <a target="_blank" style="color: #1e3a8a; text-decoration: none;"
+               onmouseover="this.style.textDecoration='underline'"
+               onmouseout="this.style.textDecoration='none'">
+                Peter Weleslaw Kuzmišín, Bohové starých Slovanů, 1. vyd. Nakladatelství Eugenika, 2016. ISB 978-80-8100-454-4
+            </a>
+        </li>
+        <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wikipedie</strong> - 
+                    <a href="https://cs.wikipedia.org/wiki/Permon%C3%ADk" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Permoník
+                    </a>
+                </li>
+                <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wikipedie</strong> - 
+                    <a href="https://cs.wikipedia.org/wiki/Krakono%C5%A1" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Krakonoš
+                    </a>
+                </li>
+                <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wikipedie</strong> - 
+                    <a href="https://cs.wikipedia.org/wiki/Slovansk%C3%A1_mytologie" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Slovanská mytologie
+                    </a>
+                </li>
+                <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>PERUNI - Svět slovanských bohů a démonů</strong> - 
+                    <a href="https://peruni.estranky.sk/clanky/svet-slovanskych-bohu-a-demonu.html" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Zemské elementy - horští duchové
+                    </a>
+                </li>
+                <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Chi.cz - Slovanská mytologie</strong> - 
+                    <a href="https://chi.cz/magie/slovanska-mytologie" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Seznam postav slovanské mytologie
+                    </a>
+                </li>
+                <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Emefka.sk</strong> - 
+                    <a href="https://emefka.sk/morena-ci-demonicke-sudicky-10-dalsich-desivych-bytosti-zo-slovanskej-mytologie-2-cast/" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Desivé bytosti zo slovanskej mytológie
+                    </a>
+                </li>
+            </ul>
+        </div>
         </div>
         </div>
         </main>

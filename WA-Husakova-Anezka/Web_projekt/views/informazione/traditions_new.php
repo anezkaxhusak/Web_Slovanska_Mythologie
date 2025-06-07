@@ -92,7 +92,7 @@ session_start();
     <li>
       <a href="ChristianTrad.php" class="text-decoration-none">
       <strong>Tradice převzaté z křesťanství</strong>
-    </a>, které stále slavíme, přestože počet křesťanů, obzvlášť na území České Republiky, klesá, a
+    </a>, které stále slavíme, přestože počet křesťanů - obzvlášť na území České Republiky - klesá, a
     </li>
     <img  src="images/MikulášLepší.jpg" class="img1" alt="Obrázek: Mikuláš">
     <li>
@@ -103,6 +103,51 @@ session_start();
     
     </ul>
           </section>
+          <div style="background-color: #fff9db; border: 1px solid #facc15; border-radius: 16px; padding: 1rem; margin-top: 2rem; font-size: 0.9rem;">
+    <h3 style="color: #1e3a8a; font-size: 1rem; margin-bottom: 0.8rem; font-weight: bold;">Zdroje</h3>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+        <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+            <strong>Bohové starých Slovanů</strong> - 
+            <a target="_blank" style="color: #1e3a8a; text-decoration: none;"
+               onmouseover="this.style.textDecoration='underline'"
+               onmouseout="this.style.textDecoration='none'">
+                Peter Weleslaw Kuzmišín, Bohové starých Slovanů, 1. vyd. Nakladatelství Eugenika, 2016. ISB 978-80-8100-454-4
+            </a>
+           </li>
+              <li id="zdroj-kolovrat" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                        <strong>Kolovrat</strong> - 
+                        <a href="https://kolovrat.pohanskaspolecnost.cz/kolo-roku-slovane/" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                           onmouseover="this.style.textDecoration='underline'"
+                           onmouseout="this.style.textDecoration='none'">
+                            Výroční slavnosti starých slovanů
+                        </a>
+                    </li>
+                    <li id="zdroj-slovansky-kruh" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Slovanský kruh</strong> - 
+                    <a href="http://www.slovanskykruh.cz/2017/03/kolovrat-aneb-slovanske-slavnosti-v-prubehu-roku/" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Kolovrat aneb Slovanské slavnosti v průběhu roku
+                    </a>
+                </li>    
+                <li id="zdroj-slovansky-kruh" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Novinky.cz</strong> - 
+                    <a href="https://www.novinky.cz/clanek/zena-styl-novodobi-slovane-ti-co-vynaseji-moranu-40007392" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                       Novodobí Slované: ti, co vynášejí Moranu
+                    </a>
+                </li>  
+                <li id="zdroj-slovansky-kruh" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Kouzla z nití</strong> - 
+                    <a href="https://www.kouzlazniti.cz/l/kolo-roku-proc-a-jak-ozivaji-stare-pohanske-svatky-a-tradice/" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                       Kolo roku - proč a jak ožívají staré pohanské svátky a tradice
+                    </a>
+                </li>  
+             </ul>
+            </div>
             </div>
             </div>
         </main>

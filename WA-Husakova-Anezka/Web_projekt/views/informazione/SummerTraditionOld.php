@@ -120,13 +120,16 @@ session_start();
 
 <h2>Přivítání Mokoše - Radonica</h2>
 <p>Oslava bohyně Mokoše, patronky plodnosti a úrody. Slavnosti zahrnovaly obřady zaměřené na zajištění dobré sklizně a ochranu domácnosti.</p>
-<img  src="images/VítáníMokoše.jpg" class="img1" alt="Obrázek: Přivítání Mokoše">
+<p>Zemědělci od dávných dob připravují velkolepé děkovné hody. Lidé si však také uvědomovali, že Mokoš není pouhou zemskou bohyní, je také nebeskou přadlenou, vládkyní nad lidským osudem a ochránkyní posvátné nitě života všeho a všech, kteří jsou na tomto světě.</p>
 
 <h2>Zelené svátky</h2>
-<p>Oslava přírody a jejího bujení. Lidé zdobili své domovy zelenými ratolestmi a účastnili se tanců a zpěvů v přírodě.</p>
+<p>Oslava přírody a jejího bujení. Lidé zdobili své domovy zelenými ratolestmi a účastnili se tanců a zpěvů v přírodě. Významné bylo i obřadní obcházení polí, čištění studánek, zdobení domů ratolestmi, slavnostní vyhánění dobytka na pastvu.</p>
+<p>Konec jara a přechod k letnímu období byl ve znamení svátků Rusalných. Zdobily se hroby a přinášely obětiny. V Čechách se hrály hry na Krále a královnu - O svatodušním pondělí zvolili chlapce krále (mezi sebou) a královnu. Podobná je i Jízda králů na Moravě.</p>
 
 <h2>Koupala</h2>
 <p>Slavnost spojená s letním slunovratem, oslava ohně a vody. Lidé zapalovali ohně, skákali přes ně a koupali se v řekách, aby očistili tělo i duši.</p>
+<p>Letní slunovrat je oslavou slunce a vrcholného období jeho vlády, je nejdelší den v roce a také Dažboh, bůh slunce, je na vrcholu své moci. Lidé tedy oslavovali božstva spojená s ohněm a sluncem (Dažboh, Ogni, Svarožič), ale také bohyni plodivé síly Mokoš. Dalším hlavním bohem tohoto času je vedle Dažboha také Perun, jehož síla stále narůstá.</p>
+<p>Smyslem svátku bylo zajištění zdárné úrody, a to skrze vláhu přivolanou koupelemi a teplo přivolané ohni. V kupadelných písních se objevuje motiv sňatku ohně a vody, dvou hlavních živlů tohoto svátku.</p>
 <img  src="images/KoupalaTrad.webp" class="img1" alt="Koupala">
 <img  src="images/KoupalaTrad1.jpg" class="img1" alt="Obrázek: Koupala">
 <img  src="images/KoupalaTrad.jpg" class="img1" alt="Obrázek: Koupala">
@@ -134,8 +137,108 @@ session_start();
 
 
 <h2>Dodala</h2>
-<p>Oslava bohyň a duchů přírody. Slavnosti zahrnovaly obřady zaměřené na udržení harmonie s přírodou a zajištění plodnosti.</p>
-      </section>
+<p>Oslava bohyň a duchů přírody. Slavnosti zahrnovaly obřady zaměřené na udržení harmonie s přírodou a zajištění plodnosti. Dodola a Perperuna jsou starobylé slovanské obřady přivolávání deště, rozšířené mezi různými národy jihovýchodní Evropy až do 20. století.</p>
+<p>Obřadní rituál je analogicko-imitativní magický obřad, který sestává ze zpěvu a tance prováděného mladými dívkami nebo chlapci v procesích následujících hlavního účinkujícího, který je oblečen v čerstvých větvích, listech a bylinách, s účelem vyvolání deště, obvykle praktikovaného v období sucha, zejména v letní sezóně.</p>
+<p>Takto nazdobená dívka byla při tanci oblévána vodou přihlížejícími ženami, přičemž se jí všichni klaněli a vůbec jí jakožto pozemské zástupkyni bohyně prokazovali všemožnými způsoby úctu. Na konci tance Dodola požehnala všem přítomným i samotné zemi Perunovým jménem, poté jí byly postupně sňaty ozdoby a dívka se navracela zpět ke svému pozemskému životu.</p>
+<p>Podle některých interpretací je Dodola slovanská bohyně deště a manželka nejvyššího boha Peruna (který je bohem hromu). Slované věřili, že když Dodola dojí své nebeské krávy, mraky, prší na zemi. Každé jaro Dodola údajně létá nad lesy a poli a šíří jarní zeleň, zdobí stromy květy.</p>
+</section>
+      <div style="background-color: #fff9db; border: 1px solid #facc15; border-radius: 16px; padding: 1rem; margin-top: 2rem; font-size: 0.9rem;">
+    <h3 style="color: #1e3a8a; font-size: 1rem; margin-bottom: 0.8rem; font-weight: bold;">Zdroje</h3>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+        <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+            <strong>Bohové starých Slovanů</strong> - 
+            <a target="_blank" style="color: #1e3a8a; text-decoration: none;"
+               onmouseover="this.style.textDecoration='underline'"
+               onmouseout="this.style.textDecoration='none'">
+                Peter Weleslaw Kuzmišín, Bohové starých Slovanů, 1. vyd. Nakladatelství Eugenika, 2016. ISB 978-80-8100-454-4
+            </a>
+        </li>
+        </li>
+                <li id="zdroj-kolovrat-slovane" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Kolovrat</strong> - 
+                    <a href="https://kolovrat.pohanskaspolecnost.cz/kolo-roku-slovane/" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Kolo roku: Slované
+                    </a>
+                </li>
+                <li id="zdroj-wikipedie-kupadla" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wikipedie</strong> - 
+                    <a href="https://cs.wikipedia.org/wiki/Kupadelné_svátky" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Kupadelné svátky
+                    </a>
+                </li>
+                <li id="zdroj-wikipedie-mokos" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wikipedie</strong> - 
+                    <a href="https://cs.wikipedia.org/wiki/Moko%C5%A1" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Mokoš
+                    </a>
+                </li>
+                <li id="zdroj-slovansky-kruh" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Slovanský kruh</strong> - 
+                    <a href="http://www.slovanskykruh.cz/2017/03/kolovrat-aneb-slovanske-slavnosti-v-prubehu-roku/" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Kolovrat aneb Slovanské slavnosti v průběhu roku
+                    </a>
+                </li>
+                <li id="zdroj-wild-coco-kupalo" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wild & Coco</strong> - 
+                    <a href="https://www.wildandcoco.com/letni-slunovrat-neboli-kupalo-magicky-svatek-ktery-si-zaslouzi-oslavu" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Letní slunovrat neboli kupalo
+                    </a>
+                </li>
+                <li id="zdroj-jasenka-kupala" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Jasenka je naša otčina</strong> - 
+                    <a href="https://www.jasenka-nasaotcina.cz/zivot-slovanu/slovanske-svatky/clanky-prispevky/item/62-letni-slunovrat-a-kupala" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Letní Slunovrat a Kupala
+                    </a>
+                </li>
+                <li id="zdroj-rodna-vira-dodola" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Rodná víra</strong> - 
+                    <a href="https://rodnavira.cz/blog/lidova-kultura/dodola-perperuna-starobyly-obrad-privolavani-deste/" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Dodola, perperuna - starobylý obřad přivolávání deště
+                    </a>
+                </li>
+                <li id="zdroj-wikipedia-dodola" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wikipedia</strong> - 
+                    <a href="https://en.wikipedia.org/wiki/Dodola_and_Perperuna" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Dodola and Perperuna (anglicky)
+                    </a>
+                </li>
+                <li id="zdroj-novinky-slovane" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Novinky.cz</strong> - 
+                    <a href="https://www.novinky.cz/clanek/zena-styl-novodobi-slovane-ti-co-vynaseji-moranu-40007392" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Novodobí Slované: ti, co vynášejí Moranu
+                    </a>
+                </li>
+                <li id="zdroj-novinky-slovane" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Kolovrat</strong> - 
+                    <a href="https://kolovrat.pohanskaspolecnost.cz/kolo-roku-slovane/" target="_blank" style="color: #1e3a8a; text-decoration: none;"
+                       onmouseover="this.style.textDecoration='underline'"
+                       onmouseout="this.style.textDecoration='none'">
+                        Výroční slavnosti starých slovanů
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </main>
+    </ul>
+</div>
         </div>
         </div>
     </main>

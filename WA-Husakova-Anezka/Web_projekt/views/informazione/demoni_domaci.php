@@ -118,22 +118,31 @@ session_start();
             Na tento oltář byly přinášeny obětiny, zejména misky s mlékem nebo kaší, případně kousky chleba.</p>
         <p>Pokud se duchům a démonům domova neprojevovala patřičná úcta, mohla se bytost, která původně dům a hospodářství ochraňovala, rozzlobit a začít škodit. Rozhněvaného ducha či předka pak bylo nutno si usmířit obětí. 
             Také se mohlo stát, že domácí ochránce podlehl při ochraně domova cizímu ochránci jiného hospodářství. Vítěz pak poražené rodině škodil. Takového škůdce je pak třeba vyhnat pomocí magického rituálu.</p>
+            
+            <p>Jako démoni nebo duchové jsou ve slovanské mytologii nazývány nadpřirozené bytosti nižšího řádu než bohové, spojené především s přírodními jevy, smrtí, osudem a časem.</p>
+            <p>Víra v duchy, a s ní spojené kultovní, magické a pověrečné praktiky, se ve velké míře zachovala i po christianizaci Slovanů, na rozdíl od kultu božstev.</p>
+            
             <h2> Did a Baba </h2>
             <p>Did a Baba jsou duchové našich nejsilnějších předků, sedí na ramenou každého člověka a chrání ho. Je možné je požádat o radu a o pomoc. </p>
             <p>Zjevují se většinou ve své lidské podobě buď jako tvář ozářená jasným světlem, nebo jako celé postava.</p>
-
+            
             <h2>Stopjan nebo Stopjanka </h2>
             <p>Duch konkrétního předka, jenž se zjevuje svému potomkovi, pokud je žádán o radu a pomoc. Zjevují se buď jako tvář v zářícím světle, nebo jako celá postava.</p>
 
             <h2>Domovník a Kikimora</h2>
-            <p>Jsou to duchové domu a hospodářství. Chrání dům, ve které se usadili, ale jen v tehdy, pokud se o ně pán domu dobře stará. Domovník má podobu malého chlupatého skřítka, nebo kocoura. Kikimora se lidem zjevuje jako kuřátko nebo slepice, občas také jako malá postavička na kuřecích nožkách.</p>
+            <p>Jsou to duchové domu a hospodářství. Chrání dům, ve které se usadili, ale jen v tehdy, pokud se o ně pán domu dobře stará.</p>
+            <p>Domovník má podobu malého chlupatého skřítka, nebo kocoura. Údajně představuje personifikaci nejvyššího Roda v mikrokosmu příbuzenství.</p>
+            <p>První zmínky o Kikimoře sahají do 8. století. Má jít o démona, který se zrodil z duší nepokřtěných dívek, nebo jakožto potomek ohnivého hada. Kikimora se lidem zjevuje jako kuřátko nebo slepice, občas také jako malá postavička (či hubená stařena) na kuřecích nožkách.</p>
+            <p>Kikimory se dělí na dva druhy: Domácí kikimora - žije za sporákem nebo kamny a vydává zvuk podobný myšímu pištění. Má za úkol škodit, ale ne vždy. Když narazí na šťastnou rodinu, snaží se jí pomoct a stane se jakýmsi ochráncem. Lesní kikimora - přitahována bažinami, vypadá spíše jako trpasličí stvoření než jako stařena. Je veskrze negativní, láká pocestné k sobě a snaží se je utopit</p>
             <img src="images/Domovník.jpg" class="img1" alt="Obrázek: Domovník">
             <img src="images/Kikimora.jpg" class="img1" alt="Obrázek: Kikimora">
             <h2>Korgoruše</h2>
             <p>Pomocnice Domovníka, zjevující se v kočičí podobě.</p>
+            <p></p>
             <img  src="images/Korguše.jpg" class="img1" alt="Obrázek: Korguše">
             <h2>Hadovik</h2>
-            <p>Hadovikk je také pomocník Domovníka. Jeho úkolem je přinášet rodině blahobyt. Sídlí pod prahem nebo pod pecí v podobě hada.</p>
+
+            <p>Hadovikk je také pomocník Domovníka. Jeho úkolem je přinášet rodině blahobyt. Sídlí pod prahem nebo pod pecí v podobě hada. Je to pravděpodobně užovka, která skutečně často žije poblíž lidských stavení.</p>
 
             <h2>Chlévník</h2>
                 <p>Chlévník je bytost podobná Domovníkovi nebo Kikimoře, jen s tím rozdílem že obývá stáje a chlévy. Pokud je o Chlévníka dobře postaráno, chrání statek a odhání od něj čarodějnice či jiné démony, kteří by chtěli hospodářství ublížit.</p>
@@ -154,6 +163,67 @@ session_start();
             <p>Jsou to malinké chlupaté bytosti s velkýma ušima, trošku se podobají lidem.Žijí v lesích a na loukách. Některé rodiny človíčků se rády spojují s určitou lidskou rodinou, které potom pomáhají na polích i v lesích a přinášejí jí blahobyt a štěstí.</p>
 
       </section>
+      <div style="background-color: #fff9db; border: 1px solid #facc15; border-radius: 16px; padding: 1rem; margin-top: 2rem; font-size: 0.9rem;">
+    <h3 style="color: #1e3a8a; font-size: 1rem; margin-bottom: 0.8rem; font-weight: bold;">Zdroje</h3>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+        <li style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+            <strong>Bohové starých Slovanů</strong> - 
+            <a target="_blank" style="color: #1e3a8a; text-decoration: none;"
+               onmouseover="this.style.textDecoration='underline'"
+               onmouseout="this.style.textDecoration='none'">
+                Peter Weleslaw Kuzmišín, Bohové starých Slovanů, 1. vyd. Nakladatelství Eugenika, 2016. ISB 978-80-8100-454-4
+            </a>
+        </li>
+         <li id="zdroj-wiki-1" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wikipedie</strong> - 
+                    <a href="https://cs.wikipedia.org/wiki/Slovansk%C3%A1_mytologie" target="_blank" style="color: #1e3a8a; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">
+                        Slovanská mytologie
+                    </a>
+                </li>
+                <li id="zdroj-peruni-1" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>PERUNI</strong> - 
+                    <a href="https://peruni.estranky.sk/clanky/svet-slovanskych-bohu-a-demonu.html" target="_blank" style="color: #1e3a8a; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">
+                        Svět slovanských bohů a démonů
+                    </a>
+                </li>
+                <li id="zdroj-wiki-demoni" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wikipedie</strong> - 
+                    <a href="https://cs.wikipedia.org/wiki/Slovanští_démoni" target="_blank" style="color: #1e3a8a; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">
+                        Slovanští démoni
+                    </a>
+                </li>
+                <li id="zdroj-wiki-domovoy" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Wikipedia</strong> - 
+                    <a href="https://en.wikipedia.org/wiki/Domovoy" target="_blank" style="color: #1e3a8a; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">
+                        Domovoy
+                    </a>
+                </li>
+                <li id="zdroj-lifee-kikimora" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Lifee.cz</strong> - 
+                    <a href="https://www.lifee.cz/historie-a-tajemno/slovansky-demon-kikimora-rad-skrti-muze-a-skodi-v-domacnosti-neodola-vsak-slepicim-a-predeni_348868.html" target="_blank" style="color: #1e3a8a; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">
+                        Slovanský démon Kikimora: Rád škodí v domácnosti
+                    </a>
+                </li>
+                <li id="zdroj-g-kikimora" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>G.cz</strong> - 
+                    <a href="https://g.cz/demon-kikimora-slovanska-prisera-ktera-skodila-rodinam-a-strasila-deti/" target="_blank" style="color: #1e3a8a; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">
+                        Démon Kikimora: Slovanská příšera
+                    </a>
+                </li>
+                <li id="zdroj-slovane-skritek" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>Slované.cz</strong> - 
+                    <a href="http://slovane.cz/?cat=7" target="_blank" style="color: #1e3a8a; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">
+                        Mytologie slovanských duchů
+                    </a>
+                </li>
+                <li id="zdroj-enigma-kikimora" style="margin-bottom: 0.3rem; font-size: 0.85rem;">
+                    <strong>EnigmaPlus.cz</strong> - 
+                    <a href="https://enigmaplus.cz/slovansky-demon-kikimora-jsou-pribehy-o-nem-pravdive/" target="_blank" style="color: #1e3a8a; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">
+                        Slovanský démon Kikimora. Jsou příběhy o něm pravdivé?
+                    </a>
+                </li>
+        </ul>
+        </div>
         </div>
         </div>
         </main>

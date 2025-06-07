@@ -32,18 +32,25 @@ class TraditionController {
             $user_id = $_SESSION['user_id'];
 
             $imagePaths = [];
-            if (!empty($_FILES['images']['name'][0])) {
-                $uploadDir = '../public/images/';
-                foreach ($_FILES['images']['tmp_name'] as $key => $tmp_name) {
-                    $filename = basename($_FILES['images']['name'][$key]);
-                    $targetPath = $uploadDir . $filename;
+if (!empty($_FILES['images']['name'][0])) {
+    $uploadDir = '../public/images/';
+    
+    if (!is_dir($uploadDir)) {
+        mkdir($uploadDir, 0755, true);
+    }
+    
+    foreach ($_FILES['images']['tmp_name'] as $key => $tmp_name) {
+        $filename = basename($_FILES['images']['name'][$key]);
+        
+        $filename = time() . '_' . $filename;
+        
+        $targetPath = $uploadDir . $filename;
 
-                    if (move_uploaded_file($tmp_name, $targetPath)) {
-                        $imagePaths[] = '/public/images/' . $filename; 
-                        
-                    }
-                }
-            }
+        if (move_uploaded_file($tmp_name, $targetPath)) {
+            $imagePaths[] = 'public/images/' . $filename; 
+        }
+    }
+}
 
             if ($this->traditionModel->create(
                 $name, $age, $description, $season, $link, $imagePaths, $user_id
