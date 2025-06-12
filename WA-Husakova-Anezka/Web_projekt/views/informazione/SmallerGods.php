@@ -156,7 +156,7 @@ Bůh letního slunovratu, ohně, vody a čistoty. Je symbolem radosti, vrcholné
 <h2>Svantovít</h2>
 <p>
 Mocné božstvo války, věštby a moci. Svantovít je často zobrazován se čtyřmi hlavami, hledícími do všech stran světa. Chrám na Arkóně byl jeho nejslavnějším kultovním místem. Jeho přítomnost znamenala vítězství i osudové rozhodnutí.</p>
-<p>Svantovít byl slovanský bůh uctívaný polabskými Slovany, resp. kmenem Ránů na Rujáně. Díky politickému vlivu Rujány byl často ctěn okolními kmeny jako nejvyšší z bohů (deus deorum), dary mu přinášely kmeny od Vagrie po Pomořansko</p>
+<p>Svantovít byl slovanský bůh uctívaný polabskými Slovany, resp. kmenem Ránů na Rujáně. Díky politickému vlivu Rujány byl často ctěn okolními kmeny jako nejvyšší z bohů, dary mu přinášely kmeny od Vagrie po Pomořansko.</p>
 <p>Pro polabské Slovany byl chrám zasvěcený Svantovítovi důležitou baštou pohanství i v době, kdy většina Evropy již byla křesťanská. Svatyně odolávala až do roku 1168, kdy Arkonu vyplenil dánský král Valdemar I.</p>
 <p>Svantovít v sobě spojoval vlastnosti válečného i hospodářského boha. Z jeho rohu naplněného vínem kněz věštil úrodu na následující rok. Věštilo se pomocí tří řad dvou do země zapíchnutých a překřížených kopí, která kůň překračoval.</p>
 <img  src="images/Svantovit.jpg" class="img1" alt="Obrázek: Svantovit">

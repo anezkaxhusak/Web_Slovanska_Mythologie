@@ -123,16 +123,17 @@ session_start();
             Ačkoliv k nám jejich jména doléhala rozličně, ze stínů lidových písní a legend, zůstávají fascinujícím obrazem slovanského chápání světa jako živého, propojeného celku, kde každá bytost má své místo a každá síla své jméno.</p>
             <h2>Rod</h2>
         <p>Prabůh počátku, z něhož vzniklo vše. Není stvořitelem v lidském smyslu, ale silou zrození, principem života. Je přítomen v krvi, rodu, pokračování.</p>
-        <p>V některých tradicích je Rod považován za nejstarší a nejzákladnější ze všech slovanských božstev - není to osobní bůh, ale spíše kosmický princip, který stojí za vším existujícím. Jeho jméno se dochovalo v mnoha slovanských jazycích ve slovech souvisejících s rodinou, původem a zrozením.</p>
+        <p>V některých tradicích je Rod považován za nejstarší a nejzákladnější ze všech slovanských božstev - není to osobní bůh, ale spíše kosmický princip, který stojí za vším existujícím </p>
         <p>Rod byl uctíván především mezi východními Slovany, zejména v oblasti dnešního Ruska, Ukrajiny a Běloruska. Jeho jméno se dochovalo v mnoha slovanských jazycích ve slovech souvisejících s rodinou, původem a zrozením. Moderní neopohanské skupiny v Rusku ho často volí jako vrchní božstvo.</p>
         <img src="images/Rod.jpg" class="img1" alt="Obrázek: Rod">
         <h2>Lada</h2>
         <p>Bohyně harmonie, plodnosti a krásy. Ztělesňuje rovnováhu mezi protiklady, ženský princip ve své sjednocující podobě. Patronka míru a zrození.</p>
         <p>Věří se, že má roli matky bohyně mezi některými slovanskými skupinami, a v jiných je Lada jednoduše označována jako velká bohyně. V některých ohledech je podobná severské Frejje, kvůli své asociaci s láskou, plodností a smrtí.</p>
-        <p>Její kult byl nejsilnější mezi západními a jižními Slovany - v dnešním Polsku, České republice, na Slovensku a v části Balkánu. Ve východoslovanské oblasti byla často ztotožňována s Mokošį nebo s křesťanskou Pannou Marií.</p>
+        <p>Její kult byl nejsilnější mezi západními a jižními Slovany - v dnešním Polsku, České republice, na Slovensku a v části Balkánu. Ve východoslovanské oblasti byla často ztotožňována s Mokoší nebo s křesťanskou Pannou Marií.</p>
         <img src="images/Lada.jpg" class="img1" alt="Obrázek: Lada">
+        
         <h2>Triglav</h2>
-        <p>Trojhlavýbůh představující minulost, přítomnost a budoucnost. Jméno "Triglav" ve skutečnosti znamená "ten se třemi hlavami". Ve slovanské mytologii je někdy představován jako komplex bohů, a jako reference nejblíže Trojici v křesťanství nebo Trimurti v hinduismu.</p>
+        <p>Trojhlavý bůh představující minulost, přítomnost a budoucnost. Jméno "Triglav" ve skutečnosti znamená "ten se třemi hlavami". Ve slovanské mytologii je někdy představován jako komplex bohů, a jako reference nejblíže Trojici v křesťanství nebo Trimurti v hinduismu.</p>
         <p>Triglav byl nejvíce uctíván mezi pobaltskými Slovany.</p>
         <img src="images/Triglav.jpg" class="img1" alt="Vyzobrazení Triglava">
 
@@ -158,11 +159,11 @@ session_start();
         
         <h2>Perun</h2>
         <p>Říkali mu také: Perkunas, Perkon, Perk, Puruša</p>
-        <p>Nejsilnějším bohem slovanského panteonu. Bůh hromu, války a ochrany. v době válek vystupuje do čela slovanského panteonu, aby zajistil vítězství našim zbraním a ochránil ty, kteří jdou do války. 
+        <p>Nejsilnějším bohem slovanského panteonu. Bůh hromu, války a ochrany. V době válek vystupuje do čela slovanského panteonu, aby zajistil vítězství našim zbraním a ochránil ty, kteří jdou do války. 
             V době míru je bohem deště, bouře, hromu a blesku, přinášeje úrodě vláhu. </p>
-            <p> Je mu zasvěcen nejsilnější strom v přírodě - dub. Jeho posvátným zvířetem je býk. Jeho zbraní je ohnivá sekera </p>
-        <p>Perun byl uctíván od Baltu k Černému moři. Hlavní kultovní centra existovala v Novgorodu, Kyjevě a na místě Peryn u jezera Ilmen. U západních Slovanů byl znám jako Prone (zaznamenal Helmold), u pobaltských Slovanů v oblasti Hannoverského Wendlandu se čtvrtek nazýval "Perěndan" - "den Peruna". 
-            Archaeologické nálezy sekerek s Perunovými symboly pocházejí z období 11.-12. století z celé střední a východní Evropy.</p>
+            <p> Je mu zasvěcen nejsilnější strom v přírodě - dub. Jeho posvátným zvířetem je býk. Jeho zbraní je ohnivá sekera. </p>
+        <p>Perun byl uctíván od Baltu k Černému moři. Hlavní kultovní centra existovala v Novgorodu, Kyjevě a na místě Peryn u jezera Ilmen. U západních Slovanů byl znám jako Prone (zaznamenal Helmold), u pobaltských Slovanů se čtvrtek nazýval "Perěndan" - "den Peruna". 
+             Archaeologické nálezy sekerek s Perunovými symboly pocházejí z období 11.-12. století z celé střední a východní Evropy.</p>
             <img src="images/Perun1.webp" class="img1" alt="Vyzobrazení Peruna">
         
         
@@ -187,7 +188,7 @@ session_start();
         
         
         <h2>Chors</h2>
-        <p>Je východoslovanský bůh, jehož idol stál společně s idoly dalších božstev takzvaného Vladimírova panteonu v Kyjevě. Nejčastěji je vykládán jako solární božstvo a ztotožňován s Dažbogem,</p>
+        <p>Je východoslovanský bůh, jehož idol stál společně s idoly dalších božstev takzvaného Vladimírova panteonu v Kyjevě. Nejčastěji je vykládán jako solární božstvo a ztotožňován s Dažbogem.</p>
         <img src="images/Chors.jpg" class="img1" alt="Obrázek: Chors">
         
         <h2>Morana</h2>
@@ -196,7 +197,7 @@ session_start();
         <img src="images/Morana.png" class="img1" alt="Vyzobrazení Morany">
         
         <h2>Živa</h2>
-        <p>Živa je bohyně léta. Symbolizuje štědrost, vitalitu, hojnost a plodnost. Přinášela bohatou úrodu a požehnání přírodě. Její jméno je odvozeno od slova “život”. Představuje energii obsaženou ve všem živém na Zemi - v rostlinách, zvířatech i lidech</p>
+        <p>Živa je bohyně léta. Symbolizuje štědrost, vitalitu, hojnost a plodnost. Přinášela bohatou úrodu a požehnání přírodě. Její jméno je odvozeno od slova “život”. Představuje energii obsaženou ve všem živém na Zemi - v rostlinách, zvířatech i lidech.</p>
         <p>Živa byla uctívána především kmenem Polabanů. V Polsku je známa jako Žywia, v českých zemích jako Živa. Některé zdroje ji ztotožňují s Mokoší nebo s dalšími životodárnými bohyněmi.</p>
         <h2>Stribog</h2>
         <p>Pán větrů, proudů a pohybu. Jeho dech rozhýbává listí, přináší změny a nese zprávy z daleka. Nepředvídatelný, mocný, volný.</p>

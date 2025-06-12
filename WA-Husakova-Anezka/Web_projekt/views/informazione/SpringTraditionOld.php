@@ -123,7 +123,7 @@ session_start();
 <h2>Masopust</h2>
 <p>Tradiční svátek před Velikonocemi, spojený s tancem, hudbou a maskami. Sloužil k vyhnání zimy a oslavě plodnosti a hojnosti.</p>
 <p>Hlavním prvkem masopustu byly průvody masek, které obcházely vesnice s muzikou. Masky měly různé podoby - od zvířecích (medvěd, kobyla) až po lidské postavy. Tyto průvody vybíraly do košíků kořalku, vejce, slaninu, koblihy nebo Boží milosti, které byly večer společně konzumovány v hospodě.</p>
-<p>Konaly se také obřadní tance, například "na len", "na konopě", "žabská" nebo tanec "pod šable" ve Strání. Masopust končil přesně o půlnoci v úterý "pochováním basy" nebo Baccha, symbolizujíc konec veselí a začátek půstu.</p>
+<p>Konaly se také obřadní tance, například "na len", "na konopě", "žabská" nebo tanec "pod šable" ve Strání. Masopust končil přesně o půlnoci v úterý "pochováním basy" nebo Baccha, symbolizující konec veselí a začátek půstu.</p>
 <img  src="images/Masopust.webp" class="img1" alt="Obrázek: Masopust">
 
 <h2>Vítání jara</h2>
